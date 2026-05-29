@@ -69,18 +69,6 @@ This project was developed as part of my university coursework to demonstrate fu
 
 ---
 
-## 🎥 Project Demonstration
-
-### Watch the Project Demo
-
-[▶️ Click Here to Watch the Demo Video](PUT_VIDEO_LINK_HERE)
-
-Examples:
-- YouTube Link
-- Google Drive Link
-- OneDrive Link
-
----
 
 ## 📸 Project Screenshots
 
@@ -94,11 +82,25 @@ Examples:
 
 ### Registration Page
 
-<img src="screenshots/register.png" width="900">
+<img src="screenshots/reg.png" width="900">
 
 ### Post Details
 
-<img src="screenshots/post-details.png" width="900">
+<img src="screenshots/post.png" width="900">
+
+### Admin
+
+<img src="screenshots/admin.png" width="900">
+
+### Profile
+
+<img src="screenshots/profile.png" width="900">
+
+---
+
+### Database
+
+<img src="screenshots/database.png" width="900">
 
 ---
 
