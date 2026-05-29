@@ -62,14 +62,10 @@ This project was developed as part of my university coursework to demonstrate fu
 ### Entity Relationship Diagram
 
 <p align="center">
-  <img src="screenshots/ERD.png" width="900">
+  <img src="model.png" width="900">
 </p>
 
-> Save your ERD image inside:
 
-```text
-screenshots/ERD.png
-```
 
 ---
 
