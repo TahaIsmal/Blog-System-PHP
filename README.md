@@ -44,13 +44,17 @@ This project was developed as part of my university coursework to demonstrate fu
 
 ---
 
-## 🗄️ Database Schema
+## 🗄️ Database Tables
 
-| Table | Columns |
-|---------|---------|
-| **Users** | id, name, email, password, phone, created_at, updated_at |
-| **Posts** | id, title, content, image, user_id, created_at, updated_at |
-| **Comments** | id, comment, posts_id, users_id, created_at, updated_at |
+| Users | Posts | Comments |
+|--------|--------|----------|
+| id | id | id |
+| name | title | comment |
+| email | content | posts_id |
+| password | image | users_id |
+| phone | user_id | created_at |
+| created_at | created_at | updated_at |
+| updated_at | updated_at | - |
 
 ---
 
