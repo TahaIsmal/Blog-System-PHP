@@ -44,17 +44,16 @@ This project was developed as part of my university coursework to demonstrate fu
 
 ---
 
-## 🗄️ Database Tables
+## 🛠️ Technologies Used
 
-| Users | Posts | Comments |
-|--------|--------|----------|
-| id | id | id |
-| name | title | comment |
-| email | content | posts_id |
-| password | image | users_id |
-| phone | user_id | created_at |
-| created_at | created_at | updated_at |
-| updated_at | updated_at | - |
+| Technology | Purpose |
+|------------|----------|
+| PHP | Backend Development |
+| MySQL | Database |
+| phpMyAdmin | Database Management |
+| HTML5 | Structure |
+| CSS3 | Styling |
+| JavaScript | Client-side Functionality |
 
 ---
 
@@ -109,38 +108,17 @@ This project was developed as part of my university coursework to demonstrate fu
 
 ### Users Table
 
-| Column |
-|----------|
-| id |
-| name |
-| email |
-| password |
-| phone |
-| created_at |
-| updated_at |
+## 🗄️ Database Tables
 
-### Posts Table
-
-| Column |
-|----------|
-| id |
-| title |
-| content |
-| image |
-| user_id |
-| created_at |
-| updated_at |
-
-### Comments Table
-
-| Column |
-|----------|
-| id |
-| comment |
-| posts_id |
-| users_id |
-| created_at |
-| updated_at |
+| Users | Posts | Comments |
+|--------|--------|----------|
+| id | id | id |
+| name | title | comment |
+| email | content | posts_id |
+| password | image | users_id |
+| phone | user_id | created_at |
+| created_at | created_at | updated_at |
+| updated_at | updated_at | - |
 
 ---
 
