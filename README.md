@@ -229,7 +229,7 @@ Blog-System-PHP/
 
 GitHub: https://github.com/TahaIsmal
 
-LinkedIn: YOUR_LINKEDIN_PROFILE
+LinkedIn: https://www.linkedin.com/in/taha-esmail-61247229a
 
 ---
 
