@@ -155,7 +155,7 @@ Examples:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Blog-System-PHP.git
+git clone https://github.com/TahaIsmal/Blog-System-PHP.git
 ```
 
 ### 2. Move Project Folder
@@ -193,26 +193,30 @@ http://localhost/Blog-System-PHP
 ## 📁 Project Structure
 
 ```text
-Blog-System-PHP
+Blog-System-PHP/
 │
-├── css
-├── js
-├── images
-├── screenshots
-│   ├── ERD.png
-│   ├── home.png
-│   ├── login.png
-│   ├── register.png
-│   └── post-details.png
+├── assets/
+├── frontend/
+├── image/
 │
-├── database
+├── classes.php
+├── config.php
+├── handle_login.php
+├── handle_register.php
+├── handleLogout.php
+├── index.php
+├── register.php
+│
+├── database/
 │   └── blog.sql
 │
-├── index.php
-├── login.php
-├── register.php
-├── README.md
-└── config.php
+├── screenshots/
+│   ├── ERD.png
+│   ├── home.png
+│   ├── register.png
+│   └── login.png
+│
+└── README.md
 ```
 
 ---
@@ -221,7 +225,7 @@ Blog-System-PHP
 
 **Taha Esmail**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/TahaIsmal
 
 LinkedIn: YOUR_LINKEDIN_PROFILE
 
