@@ -44,16 +44,13 @@ This project was developed as part of my university coursework to demonstrate fu
 
 ---
 
-## 🛠️ Technologies Used
+## 🗄️ Database Schema
 
-| Technology | Purpose |
-|------------|----------|
-| PHP | Backend Development |
-| MySQL | Database |
-| phpMyAdmin | Database Management |
-| HTML5 | Structure |
-| CSS3 | Styling |
-| JavaScript | Client-side Functionality |
+| Table | Columns |
+|---------|---------|
+| **Users** | id, name, email, password, phone, created_at, updated_at |
+| **Posts** | id, title, content, image, user_id, created_at, updated_at |
+| **Comments** | id, comment, posts_id, users_id, created_at, updated_at |
 
 ---
 
