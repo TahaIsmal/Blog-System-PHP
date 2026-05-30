@@ -1,5 +1,7 @@
 # 📝 Blog Management System
 
+<img src="screenshots/cover.png" width="900">
+
 A complete Blog Management System developed using PHP, MySQL, HTML, CSS, and JavaScript.  
 The system allows users to register, log in, create blog posts, manage their content, and interact through comments.
 
@@ -62,7 +64,7 @@ This project was developed as part of my university coursework to demonstrate fu
 ### Entity Relationship Diagram
 
 <p align="center">
-  <img src="model.png" width="900">
+  <img src="model.png" width="300">
 </p>
 
 
